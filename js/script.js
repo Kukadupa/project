@@ -1,1 +1,3 @@
-"use strick";
+'use strick'
+
+console.log(123);
